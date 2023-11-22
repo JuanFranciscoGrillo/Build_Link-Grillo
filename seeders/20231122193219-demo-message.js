@@ -1,4 +1,3 @@
-// ###C:\Users\ricar\repos\Build_Link-Grillo\seeders\20231122193219-demo-message.js
 'use strict';
 
 /** @type {import('sequelize-cli').Migration} */
